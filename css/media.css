@@ -1,0 +1,17 @@
+@media(min-width: 500px) {
+	.landing {
+		display: flex;
+		height: 100%;
+	}
+
+	.landing-text,
+	.landing-image {
+		height: 100vh;
+	}
+}
+
+@media(min-width: 700px) {
+	.button {
+		padding: 1rem 3rem;
+	}
+}
